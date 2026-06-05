@@ -143,7 +143,7 @@ policy_etl/
   analytics.py    # sample queries
 main.py           # CLI
 tests/            # unit & integration tests
-PRESENTATION.md   # design deep-dive (greenfield, prod, scale)
+ETL_Presentation.pptx   # design deep-dive (greenfield, prod, scale)
 ```
 
 ---
